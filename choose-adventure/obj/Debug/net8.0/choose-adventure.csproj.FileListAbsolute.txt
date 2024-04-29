@@ -1,0 +1,14 @@
+/Users/nathanbark/Desktop/Projects/choose-adventure/choose-adventure/bin/Debug/net8.0/choose-adventure
+/Users/nathanbark/Desktop/Projects/choose-adventure/choose-adventure/bin/Debug/net8.0/choose-adventure.deps.json
+/Users/nathanbark/Desktop/Projects/choose-adventure/choose-adventure/bin/Debug/net8.0/choose-adventure.runtimeconfig.json
+/Users/nathanbark/Desktop/Projects/choose-adventure/choose-adventure/bin/Debug/net8.0/choose-adventure.dll
+/Users/nathanbark/Desktop/Projects/choose-adventure/choose-adventure/bin/Debug/net8.0/choose-adventure.pdb
+/Users/nathanbark/Desktop/Projects/choose-adventure/choose-adventure/obj/Debug/net8.0/choose-adventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanbark/Desktop/Projects/choose-adventure/choose-adventure/obj/Debug/net8.0/choose-adventure.AssemblyInfoInputs.cache
+/Users/nathanbark/Desktop/Projects/choose-adventure/choose-adventure/obj/Debug/net8.0/choose-adventure.AssemblyInfo.cs
+/Users/nathanbark/Desktop/Projects/choose-adventure/choose-adventure/obj/Debug/net8.0/choose-adventure.csproj.CoreCompileInputs.cache
+/Users/nathanbark/Desktop/Projects/choose-adventure/choose-adventure/obj/Debug/net8.0/choose-adventure.dll
+/Users/nathanbark/Desktop/Projects/choose-adventure/choose-adventure/obj/Debug/net8.0/refint/choose-adventure.dll
+/Users/nathanbark/Desktop/Projects/choose-adventure/choose-adventure/obj/Debug/net8.0/choose-adventure.pdb
+/Users/nathanbark/Desktop/Projects/choose-adventure/choose-adventure/obj/Debug/net8.0/choose-adventure.genruntimeconfig.cache
+/Users/nathanbark/Desktop/Projects/choose-adventure/choose-adventure/obj/Debug/net8.0/ref/choose-adventure.dll
